@@ -1,1 +1,10 @@
-
+1. success: true,
+2. user: 
+   2.1. first_login: false,
+   2.2. id: 431,
+   2.3. user_id: 431,
+   2.4. email: user+city@user.com,
+   2.5. role: user,
+   2.6. name: user city,
+   2.7. first_name: user,
+   2.8. last_name: city.
