@@ -1,0 +1,4 @@
+names: Кравчёнок Анна Мстоевна,
+age: 36,
+number of pets: 2,
+desired salary: 1500 $.
